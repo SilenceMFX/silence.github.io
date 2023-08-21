@@ -1,0 +1,2 @@
+# silence.github.io
+silence
